@@ -4,7 +4,7 @@
 :desc: a CocoaPods repository template
 :version: 1.0.0
 :na: N/A
-= Meet `{name}`
+= {name}
 {author} <{mail}>
 v{version}, 2018-05-08
 
@@ -21,10 +21,10 @@ v{version}, 2018-05-08
 
 :toc:
 
-== 🏵 Introduction
+== 🏵 What's this?
 
 **{name}** is {desc}.
 
-== 📲 Usage
+== 📲 How to use it?
 
 Copy all files in the `Template` directory.
