@@ -12,6 +12,8 @@
 :xcode: 9.3
 :swift: 4.1
 :license: MIT
+:sep: %20%7C%20
+:platform: iOS{sep}macos
 = Meet `{name}`
 {author} <{mail}>
 v{version}, 2018-05-08
@@ -26,7 +28,7 @@ v{version}, 2018-05-08
   <img alt="MIT" src="https://img.shields.io/badge/license-{license}-blue.svg">
   <br/>
   <img alt="Version" src="https://img.shields.io/badge/version-{version}-brightgreen.svg">
-  <img alt="Platforms" src="https://img.shields.io/badge/platform-iOS-lightgrey.svg">
+  <img alt="Platforms" src="https://img.shields.io/badge/platform-{platform}-lightgrey.svg">
   <img alt="Swift" src="https://img.shields.io/badge/swift-{swift}%2B-orange.svg">
   <br/>
   <img alt="Build Passing" src="https://img.shields.io/badge/build-passing-brightgreen.svg">
