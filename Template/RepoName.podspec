@@ -22,6 +22,8 @@ Pod::Spec.new do |s|
   s.swift_version       = '4.1'
   # s.documentation_url   = 'https://meniny.cn/RepoName/docs'
 
+  s.dependency "Jsonify"
+
   s.default_subspecs = 'Core', 'Foundation', 'UIKit', 'AppKit', 'CoreLocation', 'CoreGraphics', 'Testing', 'sysctl', 'Runtime'
 
   # SwiftStdlib Extensions
