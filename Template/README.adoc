@@ -15,7 +15,7 @@
 :swift: 4.1
 :license: MIT
 :sep: %20%7C%20
-:platform: iOS{sep}macos
+:platform: iOS{sep}macOS
 = Meet `{name}`
 {author} <{mail}>
 v{version}, 2018-05-08
