@@ -15,7 +15,12 @@
 :swift: 4.1
 :license: MIT
 :sep: %20%7C%20
-:platform: iOS{sep}macOS
+:platform: iOS{sep}macOS{sep}watchOS{sep}tvOS{sep}Linux
+// :toc: left
+:toclevels: 6
+:toc-title: TOC
+:source-highlighter: highlightjs
+// :source-highlighter: pygments
 = Meet `{name}`
 {author} <{mail}>
 v{version}, 2018-05-08
