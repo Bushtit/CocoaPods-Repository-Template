@@ -87,6 +87,10 @@ Copy all files in the `{name}` directory into your project.
 
 * link:https://github.com/Meniny/DependencyName[DependencyName]
 
+== 📱 Sample Project
+
+Run `pod install` at `Sample/` first.
+
 == ❤️ Contribution
 
 You are welcome to fork and submit pull requests.
