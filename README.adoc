@@ -1,12 +1,12 @@
 :name: CocoaPods Repository Template
 :author: Elias Abel
 :mail: admin@meniny.cn
-:desc: a CocoaPods repository template
+:desc: a CocoaPods repository template for Bushtit Lab
 :version: 1.0.0
 :na: N/A
 = {name}
 {author} <{mail}>
-v{version}, 2018-05-08
+v{version}, 2018-06-15
 
 [subs="attributes"]
 ++++

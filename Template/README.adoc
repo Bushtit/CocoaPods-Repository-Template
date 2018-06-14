@@ -1,6 +1,6 @@
 :name: RepoName
-:author: Elias Abel
-:author_esc: Elias%20Abel
+:author: Bushtit Lab
+:author_esc: Bushtit%20Lab
 :mail: admin@meniny.cn
 :desc: a description
 :icon: {name}.png
