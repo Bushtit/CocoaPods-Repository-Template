@@ -57,14 +57,14 @@ v{version}, 2018-06-08
 |===
 2+^m|Type 1+^m|Requirement
 
-1.5+^.^|Platform ^|iOS ^|{ios}+
+1.5+^.^|Platform ^|iOS ^|{ios}
 ^|macOS ^|{macos}
 ^|tvOS ^|{tvos}
 ^|watchOS ^|{watchos}
 ^|Linux ^|{linux}
 
-^|IDE ^|Xcode ^| {xcode}+
-^|Language ^|Swift ^| {swift}+
+^|IDE ^|Xcode ^| {xcode}
+^|Language ^|Swift ^| {swift}
 |===
 
 == 📲 Installation
